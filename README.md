@@ -1,17 +1,17 @@
 <div align="center">
-  <h1>🧘‍♀️ Pure Lifestyle Yoga</h1>
+  <h1>Pure Lifestyle Yoga</h1>
   <p>
     <strong>A Premium, High-Performance Yoga Consultation & Booking Platform</strong>
   </p>
-  <div>
-  ![Pure Lifestyle Yoga Hero](public/docs/hero.png)
-  ![Booking Engine](public/docs/booking.png)
-</div>
+    
+ ![Pure Lifestyle Yoga Hero](./public/docs/hero.png)
+    
+![Booking Engine](./public/docs/booking.png)
 </div>
 
 <hr />
 
-## 📖 Overview
+## Overview
 
 **Pure Lifestyle Yoga** is an exclusive web platform tailored for luxury, in-home wellness experiences. The platform empowers clients to explore curated yoga services, discover expert educators, and securely book personalized consultations. Engineered for speed and elegance, the application features a custom design system, seamless micro-animations, and a fully integrated backend for real-time lead and booking management.
 
@@ -28,7 +28,7 @@
 
 ---
 
-## ✨ Features
+## Features
 
 - **Exclusive UI/UX:** Custom-built design system leveraging a premium color palette (Espresso, Muted Gold, Cream).
 - **Dynamic Booking Engine:** Intuitive, multi-step booking forms directly connected to a real-time database.
@@ -38,7 +38,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Frontend Architecture
 - **Framework:** [React.js](https://react.dev/)
@@ -54,7 +54,7 @@
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 pure-lifestyle-yoga/
@@ -76,7 +76,7 @@ pure-lifestyle-yoga/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 Follow these instructions to set up the project locally for development and testing.
 
@@ -109,7 +109,7 @@ VITE_SUPABASE_ANON_KEY=your_anon_key_here
 
 ---
 
-## 📜 Available Scripts
+## Available Scripts
 
 In the project directory, you can run:
 
